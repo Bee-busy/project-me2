@@ -29,9 +29,17 @@ body{
     padding: 10px;
 }
 .navbar a:hover {
-    background-color: rgb(255, 153, 0);
+    background-color:#ff4500;
 }
-.price{
+.summary{
+    color: #fff;
     text-align: center;
+    background-image: url('/project-images/image2.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.summary ol{
+    list-style: none;
+    font-size: 30px;
 }
       
